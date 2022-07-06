@@ -1,0 +1,9 @@
+C:\Projects\MCAP-API\MCAP-API\WebApplication1\obj\Debug\net6.0\MCAP-API.csproj.AssemblyReference.cache
+C:\Projects\MCAP-API\MCAP-API\WebApplication1\obj\Debug\net6.0\MCAP-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MCAP-API\MCAP-API\WebApplication1\obj\Debug\net6.0\MCAP-API.AssemblyInfoInputs.cache
+C:\Projects\MCAP-API\MCAP-API\WebApplication1\obj\Debug\net6.0\MCAP-API.AssemblyInfo.cs
+C:\Projects\MCAP-API\MCAP-API\WebApplication1\obj\Debug\net6.0\MCAP-API.csproj.CoreCompileInputs.cache
+C:\Projects\MCAP-API\MCAP-API\WebApplication1\obj\Debug\net6.0\MCAP-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\MCAP-API\MCAP-API\WebApplication1\obj\Debug\net6.0\MCAP-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\MCAP-API\MCAP-API\WebApplication1\obj\Debug\net6.0\MCAP-API.RazorAssemblyInfo.cache
+C:\Projects\MCAP-API\MCAP-API\WebApplication1\obj\Debug\net6.0\MCAP-API.RazorAssemblyInfo.cs
